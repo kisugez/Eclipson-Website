@@ -1,43 +1,42 @@
 
 
-Overview
+[Overview]
 
-Welcome to [Your Website Name], an online platform dedicated to providing educational resources and job opportunities to users. Our website connects job seekers with recruiters and offers valuable learning materials to enhance career development.
+Welcome to Eclipson Inernational an online platform dedicated to providing educational resources and job opportunities to users. Our website connects job seekers with recruiters and offers valuable learning materials to enhance career development.
 
-Features
-
+[Features]
 Job Listings: Browse and apply for jobs across various industries.
 
 Educational Resources: Access courses, study materials, and career guidance.
 
 User Profiles: Create and manage your professional profile.
 
-Employer Portal: Companies can post job openings and search for candidates.
+
 
 Search & Filter: Find relevant opportunities based on location, skills, and experience.
 
 Responsive Design: Optimized for desktop and mobile devices.
 
-Technologies Used
+[Technologies Used]
 
 Frontend: React (HTML, CSS, JavaScript)
 
-Backend: Node.js (Express.js)
+Backend: Node.js 
 
 Database: PostgreSQL/MySQL
 
 Authentication: JWT/OAuth
 
-Hosting: Vercel (Frontend), AWS/Heroku (Backend, specify if different)
+Hosting: Vercel (Frontend), AWS/Heroku 
 
-Installation
+[Installation]
 
 Clone the repository:
 
 git clone https://github.com/yourusername/education-jobs-website.git
 cd education-jobs-website
 
-Install dependencies:
+[Install dependencies:]
 
 npm install  # For both frontend and backend
 
